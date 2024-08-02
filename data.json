@@ -1,0 +1,48 @@
+{
+    "name": "FAME",
+    "description1": "Your Business, Our Solutions.",
+    "description2": "Future Proof Your Business.",
+    "avatar": "/res/FAME_Square.jpeg",
+    "links": [
+        {
+            "title": "FAME",
+            "url": "https://home.fame.com.sg",
+            "image": "/res/FAME_Square.jpeg"
+        },
+        {
+            "title": "Get Support",
+            "url": "",
+            "image": ""
+        },
+        {
+            "title": "Linktree for FA Rep",
+            "url": "https://linktr.ee/famesg",
+            "image": "/res/linktree.png"
+        },
+        {
+            "title": "Linktree for Clients",
+            "url": "https://linktr.ee/fameclient",
+            "image": "/res/linktree.png"
+        },
+        {
+            "title": "Chatbot Banner",
+            "url": "",
+            "image": "/res/Chatbot-banner.png"
+        },
+        {
+            "title": "Our Products and Services",
+            "url": "",
+            "image": ""
+        },
+        {
+            "title": "Our Products and Services Banner (Left)",
+            "url": "",
+            "image": "/res/Product_Banner_DarkGray_Left.png"
+        },
+        {
+            "title": "Our Products and Services Banner (Right)",
+            "url": "",
+            "image": "/res/Product_Banner_DarkGray_Right.png"
+        }
+    ]
+}
