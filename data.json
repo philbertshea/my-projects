@@ -30,6 +30,16 @@
             "image": ""
         },
         {
+            "title": "HDB Resale API By Location (Product - Flask on Railway JSON API)",
+            "url": "https://hdb-resale-api.up.railway.app",
+            "image": ""
+        },
+        {
+            "title": "HDB Resale API By Location (Repository)",
+            "url": "https://github.com/philbertshea/resale_jsonapi",
+            "image": ""
+        },
+        {
             "title": "Online Guide for Elderly (Product - Next.JS Website)",
             "url": "https://guide-app-two.vercel.app/",
             "image": ""
