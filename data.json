@@ -2,7 +2,7 @@
     "name": "Philbert Shea",
     "description1": "Year 2 NUS Undergraduate",
     "description2": "Computer Science and Business Administration",
-    "avatar": "/res/FAME_Square.jpeg",
+    "avatar": "/res/Passport_Photo.jpg",
     "links": [
         {
             "title": "Philbert Shea",
@@ -15,12 +15,22 @@
             "image": "/res/LinkedIn_logo_initials.png"
         },
         {
+            "title": "My Repository of Projects",
+            "url": "https://www.github.com/philbertshea",
+            "image": ""
+        },
+        {
             "title": "My Personal Projects",
             "url": "",
             "image": ""
         },
         {
-            "title": "Online Guide for Elderly (Product - Website)",
+            "title": "Web Scraping BudgetMeals, CDCVouchers, HDBResale (Repository)",
+            "url": "https://github.com/philbertshea/web_scraping",
+            "image": ""
+        },
+        {
+            "title": "Online Guide for Elderly (Product - Next.JS Website)",
             "url": "https://guide-app-two.vercel.app/",
             "image": ""
         },
@@ -30,24 +40,44 @@
             "image": ""
         },
         {
-            "title": "Train App (Product - Application)",
-            "url": "",
+            "title": "Train App (Product - Kotlin Application)",
+            "url": "https://github.com/philbertshea/trainapplication/tree/main/get-app",
             "image": ""
         },
         {
             "title": "Train App (Repository)",
-            "url": "https://google.com.sg",
+            "url": "https://github.com/philbertshea/trainapplication",
             "image": ""
         },
         {
             "title": "Projects for Summer Internship at PhillipCapital",
-            "url": "https://google.com.sg",
+            "url": "",
             "image": ""
         },
         {
             "title": "FAME Website",
             "url": "https://home.fame.com.sg",
             "image": "/res/images.png"
+        },
+        {
+            "title": "FAME Linktree (Product - Next.JS on Vercel Website)",
+            "url": "https://fameplatform.vercel.app",
+            "image": ""
+        },
+        {
+            "title": "FAME Linktree (Respository)",
+            "url": "https://github.com/philbertshea/famelinktree",
+            "image": ""
+        },
+        {
+            "title": "POEMS Smartpark API (Product - JSON API Flask on Railway, may become invalid once free credits used up)",
+            "url": "https://web-production-dd927.up.railway.app/",
+            "image": ""
+        },
+        {
+            "title": "POEMS Smartpark API (Repository)",
+            "url": "https://github.com/philbertshea/poemsapi",
+            "image": ""
         }
     ]
 }
