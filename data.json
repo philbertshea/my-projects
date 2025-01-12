@@ -25,52 +25,52 @@
             "image": ""
         },
         {
-            "title": "Web Scraping BudgetMeals, CDCVouchers, HDBResale (Repository)",
+            "title": "Selenium, Scrapy, Chromedriver - Web Scraping BudgetMeals, CDCVouchers, HDBResale (Repository)",
             "url": "https://github.com/philbertshea/web_scraping",
             "image": ""
         },
         {
-            "title": "HDB Resale API By Location (Product - Flask on Railway JSON API)",
+            "title": "Selenium, Flask, Railway - HDB Resale API By Location (Product* - Flask on Railway JSON API)",
             "url": "https://hdb-resale-api.up.railway.app",
             "image": ""
         },
         {
-            "title": "HDB Resale API By Location (Repository)",
+            "title": "Selenium, Flask, JSON - HDB Resale API By Location (Repository)",
             "url": "https://github.com/philbertshea/resale_jsonapi",
             "image": ""
         },
         {
-            "title": "Online Guide for Elderly (Product - Next.JS Website)",
+            "title": "Next.JS, Vercel - Online Guide for Elderly (Product - Next.JS Website)",
             "url": "https://guide-app-two.vercel.app/",
             "image": ""
         },
         {
-            "title": "Online Guide for Elderly (Repository)",
+            "title": "Next.JS - Online Guide for Elderly (Repository)",
             "url": "https://github.com/philbertshea/guide-app",
             "image": ""
         },
         {
-            "title": "Train App (Product - Kotlin Application)",
+            "title": "Kotlin, Android - Train App (Product - Kotlin Application)",
             "url": "https://github.com/philbertshea/trainapplication/tree/main/get-app",
             "image": ""
         },
         {
-            "title": "Train App (Repository)",
+            "title": "Kotlin - Train App (Repository)",
             "url": "https://github.com/philbertshea/trainapplication",
             "image": ""
         },
         {
-            "title": "Food App PyTorch Backend (Repository)",
-            "url": "https://github.com/philbertshea/foodapp-backend",
+            "title": "PyTorch, NumPy, a bit of AWS - Food App Backend (Repository)",
+            "url": "https://github.com/philbertshea/foodapp-backend-aws",
             "image": ""
         },
         {
-            "title": "Forum App Frontend (Repository)",
+            "title": "React.JS, Typescript - Forum App Frontend (Repository)",
             "url": "https://github.com/philbertshea/forum-app",
             "image": ""
         },
         {
-            "title": "Forum App Backend (Repository)",
+            "title": "Go, SQLite - Forum App Backend (Repository)",
             "url": "https://github.com/philbertshea/forum-backend",
             "image": ""
         },
@@ -80,28 +80,33 @@
             "image": ""
         },
         {
-            "title": "FAME Website",
+            "title": "WordPress (Advanced - Custom Post Types), HTML, CSS, JavaScript, PHP - FAME Website",
             "url": "https://home.fame.com.sg",
             "image": "/res/images.png"
         },
         {
-            "title": "FAME Linktree (Product - Next.JS on Vercel Website)",
+            "title": "Next.JS, Vercel - FAME Linktree (Product - Next.JS on Vercel Website)",
             "url": "https://fameplatform.vercel.app",
             "image": ""
         },
         {
-            "title": "FAME Linktree (Respository)",
+            "title": "Next.JS - FAME Linktree (Respository)",
             "url": "https://github.com/philbertshea/famelinktree",
             "image": ""
         },
         {
-            "title": "POEMS Smartpark API (Product - JSON API Flask on Railway, may become invalid once free credits used up)",
+            "title": "Selenium, Flask, Railway - POEMS Smartpark API (Product* - JSON API Flask on Railway)",
             "url": "https://web-production-dd927.up.railway.app/",
             "image": ""
         },
         {
-            "title": "POEMS Smartpark API (Repository)",
+            "title": "Selenium, Flask, JSON - POEMS Smartpark API (Repository)",
             "url": "https://github.com/philbertshea/poemsapi",
+            "image": ""
+        },
+        {
+            "title": "* Railway-deployed products no longer work as I used up the Free Tier limits.",
+            "url": "",
             "image": ""
         }
     ]
